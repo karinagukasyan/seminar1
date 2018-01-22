@@ -23,4 +23,5 @@
 Разработчик| Джон Грубер|
 Опубликован| 2004-03-19|
 Сайт| <https://daringfireball.net/projects/markdown/>|
-    
+#### Markdown Syntax in gedit
+![](https://upload.wikimedia.org/wikipedia/commons/9/94/Markdown_Syntax_in_gedit.png)
